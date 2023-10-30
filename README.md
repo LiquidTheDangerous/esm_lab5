@@ -1,6 +1,6 @@
 # esm_lab5
 ### Requirements
-- UNIX like OS x64
+- UNIX like OS x64 (tested on Ubuntu 22.04.2 LTS)
 - cmake version >= 3.20
 - nasm compiler version >= 2.15.05
 - gcc compiler version >=  11.4.0
